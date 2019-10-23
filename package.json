@@ -1,0 +1,23 @@
+{
+  "name": "asbeane.github.io",
+  "version": "1.0.0",
+  "description": "Andy Beane Website",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asbeane/asbeane.github.io.git"
+  },
+  "author": "Andy Beane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asbeane/asbeane.github.io/issues"
+  },
+  "homepage": "https://github.com/asbeane/asbeane.github.io#readme",
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
